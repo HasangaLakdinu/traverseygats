@@ -10,7 +10,7 @@
     "gatsby-plugin-netlify-cms": "^4.1.17",
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-source-filesystem": "^1.5.29",
-    "gatsby-transformer-remark": "^1.7.39",
+    "gatsby-transformer-remark": "^5.25.1",
     "netlify-cms-app": "^2.9.7",
     "react-helmet": "^5.2.0"
   },
